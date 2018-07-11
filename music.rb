@@ -22,6 +22,5 @@ music_hash={:BTS => "Airplane pt. 2",:Blackpink => "Boombayah"}
 
 list_artists(music_hash)
 list_songs(music_hash)
-delete_artist(music_hash,:Blackpink)
 
 
