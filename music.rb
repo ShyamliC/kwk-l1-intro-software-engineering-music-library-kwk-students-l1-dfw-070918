@@ -16,7 +16,7 @@ def delete_artist(delete_hash,artist)
   artist_deletion={}
   delete_hash.each do|music|
     if delete_hash.each_key != artist
-      artist_deletion << delete_hash
+      artist_deletion << music
     else
   end
   artist_deletion
